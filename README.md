@@ -1,3 +1,6 @@
+﻿# Project Real Estate
+An AI-powered chatbot to automate lead qualification and appointment booking for real estate agents.
+
 💡 What It Does
 This agent interacts with inbound leads via chat (or email), asks qualifying questions, and determines if the lead is a good fit. It then schedules appointments automatically based on availability and preferences, reducing manual work for agents and boosting conversion rates.
 
